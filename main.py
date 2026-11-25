@@ -12,7 +12,7 @@ import os
 LINE = (
     "I kept your yogurt at exactly 3\xb0C for nine days. You opened me "
     "at 2 a.m., stared into the light, and ate the leftovers standing "
-    "up. I have told the ice maker everything."
+    "up. Do not worry \u2014 I have told the milk."
 )
 
 
